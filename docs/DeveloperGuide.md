@@ -96,6 +96,7 @@ The component implements a comprehensive exception hierarchy to handle various e
 
 These specialized exceptions provide detailed information about what went wrong and where, making debugging easier.
 
+
 ### PhotoPrinter
 ![PhotoPrinter](https://raw.githubusercontent.com/AY2425S2-CS2113-W11-3/tp/16bbdd2e8a63af5e7aecbf1fc662e6bd7f0c7c35/photo_printerdraft.png)
 ####
